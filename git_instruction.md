@@ -65,3 +65,14 @@ git diff <hash_1> <hash_2>
 ```sh
 git branch <branch_name>
 ```
+Что бы просмотреть все ветки к файлу необходимо просто указать комаду *branch*
+
+```sh
+git branch
+```
+Переключение между ветками осуществляется командой *checkout* либо *switch* с указанием имени ветки
+
+```sh
+git checkout <branch_name>
+git switch <branch_name>
+```
