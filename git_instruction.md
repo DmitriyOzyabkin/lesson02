@@ -63,5 +63,10 @@ git diff <hash_1> <hash_2>
 Для создания новой ветки используется комманда *branch* с указаением имени ветки
 
 ```sh
-git branch <branch_name>
+git branch <new_branch_name>
+```
+Что бы просмотреть все ветки к файлу необходимо просто указать комаду *branch*
+
+```sh
+git branch
 ```
