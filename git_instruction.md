@@ -88,3 +88,4 @@ git merge <branch_name>
 ```sh
 git branch -d <branch_name>
 ```
+
